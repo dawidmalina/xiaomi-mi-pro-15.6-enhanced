@@ -6,4 +6,4 @@
 Inspiration:
 - https://github.com/daliansky/XiaoMi-Pro-Hackintosh
 - https://raw.githubusercontent.com/RehabMan/OS-X-Clover-Laptop-Config
-
+- https://www.tonymacx86.com/threads/asus-rog-strix-z390-e-gaming.282709/page-2#post-1998962
