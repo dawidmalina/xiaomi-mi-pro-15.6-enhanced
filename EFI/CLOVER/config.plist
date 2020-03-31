@@ -64,16 +64,16 @@
 					<key>Replace</key>
 					<data>M1hDUlMAoA4=</data>
 				</dict>
-                <dict>
-                    <key>Comment</key>
-                    <string>Acpi Patch</string>
-                    <key>Disabled</key>
-                    <false/>
-                    <key>Find</key>
-                    <data>oAqTU1RBUwE=</data>
-                    <key>Replace</key>
-                    <data>oAqRCv8L//8=</data>
-                </dict>
+				<dict>
+					<key>Comment</key>
+					<string>Acpi Patch</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>oAqTU1RBUwE=</data>
+					<key>Replace</key>
+					<data>oAqRCv8L//8=</data>
+				</dict>
 			</array>
 		</dict>
 		<key>SSDT</key>
@@ -255,7 +255,7 @@
 				<key>hda-idle-support</key>
 				<string>1</string>
 				<key>layout-id</key>
-				<integer>30</integer>
+				<integer>57</integer>
 				<key>model</key>
 				<string>Intel Sunrise Point-LP HD Audio</string>
 			</dict>
