@@ -1,1 +1,3 @@
-# xiaomi-mi-pro-15.6-enhanced
+# EFI for Xiaomi MI PRO 15.6 Enhanced
+
+> WORK IN PROGRESS
