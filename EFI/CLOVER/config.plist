@@ -83,7 +83,7 @@
 			<key>Generate</key>
 			<dict>
 				<key>PluginType</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>NoOemTableId</key>
 			<false/>
@@ -379,7 +379,7 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>ProductName</key>
-		<string>MacBookPro15,1</string>
+		<string>MacBookPro15,2</string>
 		<key>Trust</key>
 		<true/>
 	</dict>

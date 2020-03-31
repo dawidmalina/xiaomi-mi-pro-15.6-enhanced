@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Comment</key>
-	<string>This file is for 10.14.x with native CoffeeLake support</string>
 	<key>ACPI</key>
 	<dict>
 		<key>AutoMerge</key>
@@ -145,16 +143,16 @@
 					<key>Replace</key>
 					<data>SUdQVQhfQURSDAAAAgA=</data>
 				</dict>
-                <dict>
-                    <key>Comment</key>
-                    <string>Acpi Patch</string>
-                    <key>Disabled</key>
-                    <false/>
-                    <key>Find</key>
-                    <data>oAqTU1RBUwE=</data>
-                    <key>Replace</key>
-                    <data>oAqRCv8L//8=</data>
-                </dict>
+				<dict>
+					<key>Comment</key>
+					<string>Acpi Patch</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>oAqTU1RBUwE=</data>
+					<key>Replace</key>
+					<data>oAqRCv8L//8=</data>
+				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>
@@ -303,6 +301,8 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AACbPg==</data>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
 				<key>#hda-gfx</key>
 				<string>onboard-1</string>
 				<key>#AAPL00,override-no-connect</key>
